@@ -1,0 +1,11 @@
+merchant_id,risk_level
+MER001,low
+MER002,medium
+MER003,high
+MER004,low
+MER005,medium
+MER_FRAUD,blacklist
+MER_BAD1,blacklist
+MER_BAD2,blacklist
+MER006,low
+MER007,high
